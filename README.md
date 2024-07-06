@@ -1,4 +1,3 @@
-# CognoRise-Infotech
 # CognoRise-Infotech - <ins>Web Development Intern</ins>
 
 Welcome to my internship project repository! Here, you'll find the codebases for three dynamic websites: **Portfolio**, **TravelKaro**, and **Currency Converter**. Let's dive into each project:
